@@ -20,7 +20,7 @@ In the future I intend to unify my Wordpress Blog project here in this site. Unt
 
 ## :brazil: *Olá Mundo*
 
-*Sou Engenheiro Eletricista que descobriu recentemente que adora programar.*
+*Sou um Engenheiro Eletricista que descobriu recentemente que adora programar.*
 
 *Meu primeiro contato com a programação foi através da clássica linguagem C. Depois de um tempo conheci o Arduino e acabei desenvolvendo interesse por eletrônica e microcontroladores.*
 
